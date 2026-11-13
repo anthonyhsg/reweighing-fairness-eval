@@ -1,0 +1,10 @@
+# Virtual environment
+.venv/
+
+# Jupyter / Python temporary files
+.ipynb_checkpoints/
+__pycache__/
+
+# OS junk
+.DS_Store
+Thumbs.db
